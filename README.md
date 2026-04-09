@@ -2,7 +2,7 @@
 
 VLAN VTP & Intervlan Routing
 
-In this lab I would set up VLAN VTP and configure intervlan routing on multiple switches
+In this lab I set up VLAN VTP and configure intervlan routing on multiple switches
 
  <img width="991" height="431" alt="image" src="https://github.com/user-attachments/assets/21370766-2e7d-4a10-a622-a34a6d428573" />
 
