@@ -1,6 +1,6 @@
 # VlanRouting
 
-VLAN VTP & Intervlan Routing
+Virtual Trunking Protocol & Intervlan Routing
 
 In this lab I set up VLAN VTP and configure intervlan routing on multiple switches
 
