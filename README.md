@@ -8,6 +8,7 @@ In this lab I set up VLAN VTP and configure intervlan routing on multiple switch
 
 
 Switch Configurations then using the sh vlan command to display information
+
 Mainswitch Configurations 
 en
 config t
@@ -147,7 +148,9 @@ copy run start
 
 
 Ip Interface Brief 
+
 Here I would display information about the router and switches using the sh ip int brief command
+
 Router
 
 <img width="740" height="242" alt="image" src="https://github.com/user-attachments/assets/7cb4389a-245b-4374-927d-da6dbc6e1079" />
